@@ -19,13 +19,13 @@ You can click the Preview link to take a look at your changes.
 
 ![Alt text](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![Alt text](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=black) 
 
-![Alt text](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Alt text](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black) ![Alt text](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
 
 ![Alt text](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![Alt text](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## Learning 
 
-![Alt text](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
+
 ![Alt text](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![Alt text](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Alt text](https://img.shields.io/badge/Spring_Boot-6D833F?style=flat-square&logo=SpringBoot&logoColor=white)
