@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Alt text](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
 ![Alt text](https://img.shields.io/badge/Spring_Boot-6D833F?style=flat-square&logo=SpringBoot&logoColor=white)
-
+![Alt text](https://img.shields.io/badge/Flutter-6D833F?style=flat-square&logo=Flutter&logoColor=white)
 ![Alt text](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![Alt text](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
