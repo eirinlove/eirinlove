@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ![Alt text](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
 ------
-
+![Eirinlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=eirinlove&&show_icons=true&theme=merko)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=eirinlove)](https://solved.ac/eirinlove)
-![Eirinlove's GitHub stats](https://github-readme-stats.vercel.app/api?username=eirinlove&&show_icons=true&theme=merko)
+
