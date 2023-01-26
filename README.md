@@ -7,7 +7,7 @@ Im stupid
 
 ## Tech  Stack
 
-![Alt text](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Alt text](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white) 
+![Alt text](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Alt text](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white) ![Alt text](https://img.shields.io/badge/C_Sharp-239120?style=flat-square&logo=csharp&logoColor=white) 
 
 ![Alt text](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=NGINX&logoColor=white) ![Alt text](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
